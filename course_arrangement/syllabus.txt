@@ -1,0 +1,14 @@
+Aggressive course arrangement:
+	Semester 1:C9 C1 
+	Semester 2:C2 C10 C11 
+	Semester 3:C12 C3 C4 
+	Semester 4:C5 C6 
+	Semester 5:C8 C7 
+Uniform distributed course arrangement:
+	Semester 1:C1 C9 
+	Semester 2:C2 C11 C10 
+	Semester 3:C4 C3 
+	Semester 4:C6 C12 C5 
+	Semester 5:C8 C7 
+	Semester 6:
+segma^2 = 1.04
